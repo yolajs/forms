@@ -1,0 +1,7 @@
+{
+  "umd/yolajs-forms.min.js": {
+    "bundled": 850,
+    "minified": 850,
+    "gzipped": 450
+  }
+}

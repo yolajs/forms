@@ -1,0 +1,10 @@
+/es
+/node_modules
+/umd
+/index.js
+/index.d.ts
+/lib
+/compat
+/.vscode
+npm-debug.log*
+yarn-error.log*

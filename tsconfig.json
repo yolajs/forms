@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "skipLibCheck": false,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "jsx": "react",
+    "lib": ["es2017", "dom"],
+    "emitDeclarationOnly": true,
+    "declaration": true,
+    "declarationDir": "./",
+    "noImplicitAny": false
+  },
+  "include": ["src"],
+  "exclude": ["**/*.test.tsx"]
+}
